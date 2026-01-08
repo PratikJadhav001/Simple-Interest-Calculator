@@ -32,7 +32,8 @@ cin >> choice;
 cout << "\nThank you for using Simple Interest Calculator!" << endl;
 
 return 0;
-} #include <iostream>
+} 
+#include <iostream>
 using namespace std;
 
 void clearScreen(){
